@@ -1,0 +1,94 @@
+docs_dir: docs/
+site_name: Biosciences Toastmasters
+site_url: https://biosciences-toastmasters.github.io/
+site_description: Biosciences Toastmasters
+site_author: 'Biosciences Toastmasters'
+
+# uncomment to show the github icon in the header with
+# number of forks & stars
+repo_url: https://github.com/biosciences-toastmasters/docs
+edit_uri: edit/main/docs
+
+# Copyright
+copyright: 'Biosciences Toastmasters 2023'
+
+# JavaScript for Intercom Widget
+extra_javascript:
+  - javascripts/intercom.js
+
+theme:
+  highlights: true
+  name: material
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'
+  logo: 'assets/toastmasters-logo.png'
+  favicon: 'images/favicon.ico'
+# setting features for the navigation tab
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - toc.integrate
+    - toc.follow
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  # custom_dir: 'overrides'
+  palette:
+    # Palette toggle for light mode
+    primary: custom
+    accent: custom
+
+# Navigation Pane
+
+nav:
+  - Home: 'index.md'
+  - Meeting Information/Directions: 'info.md'
+  - Meet Our Members: 'members.md'
+  - Resources: "resources.md"
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
