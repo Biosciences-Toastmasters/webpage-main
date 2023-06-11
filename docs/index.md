@@ -20,6 +20,8 @@ Join us on Wednesdays from noon-1 p.m.
     - **Do you want to confront your anxiety around public speaking?**
     - **Do you want to become more fluid at faciliating or participating in Zoom meetings?**
 
+![Image title](assets/Toastmasters-Global-Introduction-3.png){ align=right width="300"}
+
 The University of Arizona Biosciences Toastmasters Club provides a comfortable environment for students, scientists, and professionals to practice speaking and leadership skills, an area of development often overlooked in specialized higher education.
 
 Our members -- faculty, appointed professionals and staff, graduate and undergraduate students -- support each other as we become the speakers and leaders we want to be.
