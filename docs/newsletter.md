@@ -1,8 +1,10 @@
 # In Case You Missed It: the Newsletters Blog
 
-!!! Warning ""
+!!! note ""
 
-    ## 2023, May 19th
+    ## 2023, June 19th
+
+    ---
     
     Last week, we practiced our extemporaneous speaking skills with two cycles of "Round Robin" Table Topics.
     
@@ -15,3 +17,9 @@
     **Jim** remembered teaching both of his daughters to drive stick shift, and said that while there may be some danger involved during the learning phase, once you learn, it's "like riding a bicycle." He also thought of an Eleanor Roosevelt quote he likes: "No one can make you feel inferior without your consent."
     
     Last but not least, **Jenn** remembered a vacation to Turkey that overlapped with Ataturk Day, one of the country's most important holidays, and wondered what's going on there now that its current dictator is consolidating power. When asked about her favorite article of clothing, she said that she tends not to wear her favorite things out of fear of wearing them out faster. Perhaps, she said, this is a logical fallacy and she should instead wear her favorite things while she can, since styles and bodies and life circumstances change.
+
+!!! note ""
+
+    ## 2023, June 12th
+    
+    Last week, **Jenn** practiced a Grand Rounds presentation that she (successfully!) gave the following day, providing us with an overview of the intersection of mental health and chronic pain. As always, her speech was well-composed with excellent data visualization. We learned how the perception of pain can be amplified in people with mental health issues such as anxiety, depression, and trauma, and how they can all enter into a feedback loop to exacerbate each problem. We learned more about Jenn's research goals and how she hopes her discoveries will be used to improve the lives of people living with depression, anxiety, and chronic pain.
