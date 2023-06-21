@@ -32,6 +32,11 @@ The club is open to all University of Arizona and non-UArizona associated person
 
 Check the [Meeting Info/Directions](info.md) above for a map and info on parking areas.
 
+<figure markdown>
+  ![Image title](https://dummyimage.com/600x400/)
+  <figcaption>The spring 2023 members.</figcaption>
+</figure>
+
 !!! Note ""
     <p style="text-align: center; font-weight: bold; font-size: 20px;">
     **Biosciences Toastmasters Diversity Statement**

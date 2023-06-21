@@ -49,6 +49,7 @@ nav:
   - Meeting Information/Directions: 'info.md'
   - Meet Our Members: 'members.md'
   - Resources: "resources.md"
+  - Contact Us: "https://forms.gle/YnwXxzDzAkjciodz8"
 
 # Extensions
 markdown_extensions:
