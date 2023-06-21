@@ -1,4 +1,4 @@
-# In Case You Missed It: newsletters
+# In Case You Missed It: the Newsletters Blog
 
 !!! Warning ""
 
