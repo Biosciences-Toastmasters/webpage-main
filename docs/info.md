@@ -20,17 +20,3 @@ Feel free to contact us with any questions. All are welcome to visit a meeting t
 
 
 Public parking is available in the Health Sciences Parking Garage (1501 N. Campbell Ave., on the top level only) and the Highland Avenue Garage (1420 E. Helen St.). The cost is $2 per hour; no cash; credit and debit cards only. Visitors also may use the Passport Parking app to pay for parking; the app is free to download from [iOS](https://apps.apple.com/us/app/passportparking-mobile-pay/id501324867) or [Android](https://play.google.com/store/apps/details?id=com.passportparking.mobile&hl=en). Additional metered parking is available in various lots on the Health Sciences campus. Check out the [UArizona Parking Map](https://parking.arizona.edu/permits/images/2022-2023_parking_map.pdf), which shows where visitors can find hourly parking.
-
-
-
-Some Markdown text.
-
-<form action="http://someothersite.com/" method="post">
-    <P>
-    <label for="name">Name: </label> <input type="text" id="name"><br>
-    <label for="email">Email: </label> <input type="text" id="email"><br>
-    <input type="submit" value="Send">
-    </P>
-</form>
-
-More Markdown text.
